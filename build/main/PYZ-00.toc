@@ -1,0 +1,1540 @@
+('C:\\Users\\Abhay Singh\\Documents\\royal\\build\\main\\PYZ-00.pyz',
+ [('Crypto',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Cipher',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Cipher.AES',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\AES.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._EKSBlowfish',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_EKSBlowfish.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_cbc',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_cbc.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ccm',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_ccm.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_cfb',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_cfb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ctr',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_ctr.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_eax',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_eax.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ecb',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_ecb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_gcm',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_gcm.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ocb',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_ocb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ofb',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_ofb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_openpgp',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_openpgp.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_siv',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Cipher\\_mode_siv.py',
+   'PYMODULE'),
+  ('Crypto.Hash',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Hash.BLAKE2s',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\BLAKE2s.py',
+   'PYMODULE'),
+  ('Crypto.Hash.CMAC',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\CMAC.py',
+   'PYMODULE'),
+  ('Crypto.Hash.HMAC',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\HMAC.py',
+   'PYMODULE'),
+  ('Crypto.Hash.MD5',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\MD5.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA1',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\SHA1.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA224',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\SHA224.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA256',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\SHA256.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA384',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\SHA384.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA3_224',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\SHA3_224.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA3_256',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\SHA3_256.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA3_384',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\SHA3_384.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA3_512',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\SHA3_512.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA512',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\SHA512.py',
+   'PYMODULE'),
+  ('Crypto.Hash.keccak',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Hash\\keccak.py',
+   'PYMODULE'),
+  ('Crypto.Protocol',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Protocol\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Protocol.KDF',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Protocol\\KDF.py',
+   'PYMODULE'),
+  ('Crypto.Random',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Random\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Util',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Util\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Util.Padding',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Util\\Padding.py',
+   'PYMODULE'),
+  ('Crypto.Util._cpu_features',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Util\\_cpu_features.py',
+   'PYMODULE'),
+  ('Crypto.Util._file_system',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Util\\_file_system.py',
+   'PYMODULE'),
+  ('Crypto.Util._raw_api',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Util\\_raw_api.py',
+   'PYMODULE'),
+  ('Crypto.Util.number',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Util\\number.py',
+   'PYMODULE'),
+  ('Crypto.Util.py3compat',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Util\\py3compat.py',
+   'PYMODULE'),
+  ('Crypto.Util.strxor',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\Crypto\\Util\\strxor.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('cffi',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cgi.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pynput',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\__init__.py',
+   'PYMODULE'),
+  ('pynput._info',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\_info.py',
+   'PYMODULE'),
+  ('pynput._util',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\_util\\__init__.py',
+   'PYMODULE'),
+  ('pynput._util.darwin',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\_util\\darwin.py',
+   'PYMODULE'),
+  ('pynput._util.darwin_vks',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\_util\\darwin_vks.py',
+   'PYMODULE'),
+  ('pynput._util.uinput',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\_util\\uinput.py',
+   'PYMODULE'),
+  ('pynput._util.win32',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\_util\\win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32_vks',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\_util\\win32_vks.py',
+   'PYMODULE'),
+  ('pynput._util.xorg',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\_util\\xorg.py',
+   'PYMODULE'),
+  ('pynput._util.xorg_keysyms',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\_util\\xorg_keysyms.py',
+   'PYMODULE'),
+  ('pynput.keyboard',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('pynput.keyboard._base',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\keyboard\\_base.py',
+   'PYMODULE'),
+  ('pynput.keyboard._darwin',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\keyboard\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.keyboard._dummy',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\keyboard\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.keyboard._uinput',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\keyboard\\_uinput.py',
+   'PYMODULE'),
+  ('pynput.keyboard._win32',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\keyboard\\_win32.py',
+   'PYMODULE'),
+  ('pynput.keyboard._xorg',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\keyboard\\_xorg.py',
+   'PYMODULE'),
+  ('pynput.mouse',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\mouse\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse._base',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\mouse\\_base.py',
+   'PYMODULE'),
+  ('pynput.mouse._darwin',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\mouse\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.mouse._dummy',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\mouse\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.mouse._win32',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\mouse\\_win32.py',
+   'PYMODULE'),
+  ('pynput.mouse._xorg',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\pynput\\mouse\\_xorg.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._typing',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'c:\\users\\abhay '
+   'singh\\documents\\royal\\venv\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\abhay singh\\documents\\royal\\venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE')])
